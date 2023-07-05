@@ -9,8 +9,8 @@ body {
   justify-content: center;
   margin-top: 3rem;
 }
-h3,h4 {
-  margin: 10px;
+h3,h4,p,input {
+  margin-top: 10px;
 }
 .box {
   width: 40%;
